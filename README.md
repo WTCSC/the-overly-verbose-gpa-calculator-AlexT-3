@@ -11,6 +11,7 @@
 2. Navigate to the project directory using `cd the-overly-verbose-gpa-calculator-AlexT-3/`
 3. To start the program, execute `python3 gpa.py` in the terminal
 
+
 ### Usage example:
 ```
 How many classes are you in? 4

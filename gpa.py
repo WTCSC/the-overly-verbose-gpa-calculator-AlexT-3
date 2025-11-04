@@ -1,3 +1,14 @@
+# -------------------------------------------------------------
+# Program Name: GPA Calculator
+# Author: Alex Tuell
+# Date: November 3, 2025
+# Description:
+#   This program asks the user for their class grades, calculates
+#   their overall GPA, and provides feedback. It can also compare
+#   semester GPAs and help the user see how to reach a goal GPA.
+# -------------------------------------------------------------
+
+
 number_of_classes = int(input("How many classes are you in?"))
 # Creates empty list to store the user's grades
 grades = []
